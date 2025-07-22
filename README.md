@@ -1,6 +1,6 @@
 # Optimal_Attitude_Control
 
-Low Thrust Orbit Transfer Problem
+Optimal Attitude Control Problem
 Written by Bethany H.
 PhD Candidate - 18 July 2025
 
