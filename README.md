@@ -11,3 +11,7 @@ This code solves the Optimal Attitude Control problem for the eigenaxis rotation
 - attitude_local.m: This is the function file
 - rbf0 - Computes phi using a Multiquadric CRBF
 - rbf1 - Computes phi_D using a Multiquadric CRBF
+- optatt_main_con.m: file for contrained manuever
+- rao_compute.m: base code for hp-PattersonRao nodes
+- uniform_interp1.m: base code for uniform nodes
+
